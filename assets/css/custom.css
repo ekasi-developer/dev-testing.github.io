@@ -327,6 +327,8 @@ a:hover {
 
 .page .page-content .middle {
 	vertical-align: middle !important;
+	display: table-cell;
+	bottom: 100px;
 }
 
 .page .page-content .middle .map {

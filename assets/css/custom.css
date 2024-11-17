@@ -320,7 +320,7 @@ a:hover {
 
 .page .page-content {
 	width: 100%;
-	min-height: 35vh;
+	min-height: 50vh;
 	display: table;
 	padding: 0px 5px;
 }
@@ -347,8 +347,8 @@ a:hover {
 
 .page.background .page-logo img,
 .page.background .page-logo {
-	width: 180px !important;
-	height: 180px !important;
+	width: 140px !important;
+	height: 140px !important;
 }
 
 .page.background .page-footer img,

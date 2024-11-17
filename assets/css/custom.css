@@ -320,7 +320,7 @@ a:hover {
 
 .page .page-content {
 	width: 100%;
-	min-height: 45vh;
+	min-height: 35vh;
 	display: table;
 	padding: 0px 5px;
 }
@@ -347,8 +347,8 @@ a:hover {
 
 .page.background .page-logo img,
 .page.background .page-logo {
-	width: 200px !important;
-	height: 200px !important;
+	width: 180px !important;
+	height: 180px !important;
 }
 
 .page.background .page-footer img,
@@ -532,7 +532,7 @@ s
 	z-index: 1000;
 	color: #fff;
 	width: 100% !important;
-	font-family: -dancingScript !important;
+	/* font-family: -dancingScript !important; */
 }
 
 .navbar ul {

@@ -347,8 +347,8 @@ a:hover {
 
 .page.background .page-logo img,
 .page.background .page-logo {
-	width: 220px !important;
-	height: 220px !important;
+	width: 200px !important;
+	height: 200px !important;
 }
 
 .page.background .page-footer img,
@@ -373,6 +373,7 @@ a:hover {
 	font-family: -futuraStd-heavy;
 	color: #C1B49A;
 	margin: 0px;
+	font-size: 1.1em;
 }
 
 .page .page-content .title.date {
@@ -526,7 +527,7 @@ s
 /* -----  ------ */
 
 .navbar {
-	font-size: 18px;
+	font-size: 12px;
 	position: absolute;
 	z-index: 1000;
 	color: #fff;

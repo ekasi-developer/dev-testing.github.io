@@ -291,7 +291,7 @@ a:hover {
 
 .page {
 	background-size: cover;
-	position: absolute;
+	/* position: absolute; */
 	width: 100% !important;
 	min-height: 100vh !important;
 }
